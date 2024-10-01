@@ -1,3 +1,3 @@
 # react-project
 
-nom run dev
+npm run dev
