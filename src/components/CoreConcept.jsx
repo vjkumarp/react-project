@@ -1,5 +1,6 @@
 import React from "react";
-import './CoreConcept.css';
+import { CORE_CONCEPTS } from "../data";
+import CoreConcepts from "./CoreConcepts.jsx";
 
 function CoreConcept({ image, title, description }) {
   return (
